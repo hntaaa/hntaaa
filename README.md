@@ -3,6 +3,7 @@
 
 
 ### Something about me
+```javascript
 const me = {
   programming: ["Javascript", "Python", "Java"],
   askMeAbout: ["tech", "web", "music", "chess"],
@@ -17,5 +18,7 @@ const me = {
   currentJob: "looking",
   funFact: "...",
 };
+```
+
 
 
