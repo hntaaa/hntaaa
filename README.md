@@ -1,8 +1,7 @@
-## yo guys its Atakhan
+## yo
 
 
 
-### Something about me
 ```javascript
 const me = {
   programming: ["Javascript", "Python", "Java"],
