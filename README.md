@@ -14,7 +14,7 @@ const me = {
     },
     DBMS: ["MySQL", "Oracle"]
   },
-  currentJob: "looking",
+  currentJob: "somewhere",
   funFact: "...",
 };
 ```
