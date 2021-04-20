@@ -10,9 +10,9 @@ const me = {
     competitiveProgramming: ["Java"],
     frontEnd: {
       js: ["Vue.js", "Nuxt.js", "React", "Vanilla"],
-      css: ["Bootstrap", "SASS/SCSS"],
+      css: ["Bootstrap", "SASS/LESS"],
     },
-    DBMS: ["MySQL", "Oracle"]
+    DBMS: ["MySQL", "Oracle", "PostgreSQL"]
   },
   currentJob: "somewhere",
   funFact: "...",
