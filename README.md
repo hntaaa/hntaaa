@@ -9,7 +9,7 @@ const me = {
   technologies: {
     competitiveProgramming: ["Java"],
     frontEnd: {
-      js: ["Vue.js", "Nuxt.js", "React", "Vanilla"],
+      js: ["Vue.js", "React", "Vanilla"],
       css: ["Bootstrap", "SASS/LESS"],
     },
     DBMS: ["MySQL", "Oracle", "PostgreSQL"]
